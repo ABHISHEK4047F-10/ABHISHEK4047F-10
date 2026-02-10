@@ -3,7 +3,7 @@
 <h1 align="center">Abhishek Kumar Agrahari</h1>
 
 <p align="center">
-  <b>Data Science Student • Machine Learning • AI • Python</b>
+  <b>Data Science • Data Analysis • Machine Learning • Deep learning • AI • Python</b>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I am a **Data Science student from India** passionate about **AI, Machine Learni
 # 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,django,scikitlearn,tensorflow,pytorch,git,bash" />
 </p>
 
 ---
