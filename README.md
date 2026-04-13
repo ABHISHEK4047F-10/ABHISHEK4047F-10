@@ -33,7 +33,7 @@ I am a **Data Science student from India** passionate about **AI, Machine Learni
 # 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,django,Advance Excel,scikitlearn,tensorflow,pytorch,git,bash" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,django,scikitlearn,tensorflow,pytorch,git,bash" />
 </p>
 
 ---
